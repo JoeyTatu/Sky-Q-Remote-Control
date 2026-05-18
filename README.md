@@ -10,7 +10,7 @@ It's a Python script that create a Sky Q remote control
 5. Scroll to Status and press SELECT
 6. Scroll to Network Connection and press RIGHT, then SELECT
 7. Scroll to Advanced settings and press SELECT
-8. Take note of the IP address of the Sky Q box  (it should look something like 192.168.0.7)
+8. Take note of the IP address of the Sky Q box  (it should look something like 192.168.0.7).
    This is the IP address you will need to enter in the application for the remote to work.
 
 # Important notes:
