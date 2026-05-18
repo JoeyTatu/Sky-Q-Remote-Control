@@ -6,7 +6,7 @@ It's a Python script that create a Sky Q remote control
 2. On your Sky Q remote, press the HOME button
    (the home button is the button above the blue microphone button)
 3. Scroll to Settings and press SELECT
-   (centre button in arrow buttons with whitw dot)
+   (centre button in arrow buttons with white dot)
 5. Scroll to Status and press SELECT
 6. Scroll to Network Connection and press RIGHT, then SELECT
 7. Scroll to Advanced settings and press SELECT
