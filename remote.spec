@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['remote.pyw'],
+    ['remote.py'],
     pathex=[],
     binaries=[],
     datas=[],
